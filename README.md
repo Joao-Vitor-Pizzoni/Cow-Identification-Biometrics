@@ -12,7 +12,7 @@ The model was developed using the NewCowMuzzle dataset (version 2025-06-23).
 - License: Distributed under CC BY 4.0, allowing for academic and commercial use with proper attribution.
 - URL: https://universe.roboflow.com/fashol/newcowmuzzle.
 
-## 01_crop_images.py
+## 01_crop_and_preprocess.py
 This script performs the initial data preparation by extracting the Region of Interest (ROI) from the raw dataset.
 
 -Input: Original full-body or head-shot images from the train folder.
